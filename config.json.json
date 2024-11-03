@@ -1,0 +1,11 @@
+{
+  "NumberOfSpots": 100,
+  "VehicleTypes": [ "Car", "MC", "Bus", "Bicycle" ],
+  "Prices": {
+    "Car": 20,
+    "MC": 10,
+    "Bus": 30,
+    "Bicycle": 5
+  },
+  "FreeMinutes": 10
+}
